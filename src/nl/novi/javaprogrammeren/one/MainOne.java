@@ -4,9 +4,8 @@ public class MainOne {
     public static void main(String[] args) {
         Person henry = new Person("Henry", "Geitenbreier");
 
-        // Add code below
+        henry.setFullName("Sjaak", "Van Der", "Vlekkemans");
 
-        // Add code above
 
         System.out.println(henry.getFullName());
 
